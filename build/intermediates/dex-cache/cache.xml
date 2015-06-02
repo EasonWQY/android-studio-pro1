@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-69ccaf7cf05aa905ccf0c73d3470c97f0922639e.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f3fd41dae8c43531192af02ddf5429a1c44446">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-1e42eb6bc9c043e4b9f94cd0c09ddad9e50994d4.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/classes-263443a2d74f94d5e136d27947b6cf66a384add8.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-1b408bbeb79ec17429833cc8432344b1f0d73327.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/classes-46e67eca1997e4c20a4a1ced3d7f2f668e6db863.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/classes-1e729fda07cfb2a0db5e156dcb5d672d04e1954d.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/classes-9fee5e77c2f910bbfa77012ee63dd001dd590325.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-1ee14f9ac57f3c944c8f68c1ea6ff17d4544edcd.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50c645d80504c40e34e6bb88360b9a5c1df99b0b">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-b387f56961711905ddd9641d88de6fa2ba0d840d.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/support-annotations-22.1.0-b1065fc712748414a14e1268ff7959093d0eb731.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-7950fa0ee3aaee1d00ddede2db2180eea2feddda.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/classes-b75b24edd520d64d9f45a79a9bde392c033a69da.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f3fd41dae8c43531192af02ddf5429a1c44446">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/classes-692995669d65840df40cc99bb89eae5d8e10c6b4.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/internal_impl-22.1.0-061d04b039784c8383afa4ce3fbd81b9b9774822.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50c645d80504c40e34e6bb88360b9a5c1df99b0b">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Wearable/build/intermediates/pre-dexed/release/internal_impl-22.1.0-74534633286e2eb97fe01228ecc3673c1699beff.jar" />
+    </item>
+    <item
+        jar="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/qianyiwang/Downloads/AgendaData/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-fd2733d6d34b6d4ff0ff3d1fdd04d819675ff305.jar" />
+    </item>
+
+</items>
